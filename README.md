@@ -14,10 +14,10 @@ The purpose of the PKP Education Interest Group is to develop, enhance, and upda
 
 Specific goals, activities, outcomes may include:
 
-    Assessing current courses for gaps and weaknesses.
-    Advising on / enriching the platform for PKP courses
-    Developing new courses on the current platforms
-    Working to lower barriers to entry for creating good courses and educational experiences
+* Assessing current courses for gaps and weaknesses.
+* Advising on / enriching the platform for PKP courses
+* Developing new courses on the current platforms
+* Working to lower barriers to entry for creating good courses and educational experiences
 
 The interest group will communicate primarily via the group mailing list.
 
