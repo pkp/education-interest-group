@@ -25,4 +25,4 @@ The interest group will meet virtually (e.g., via Google Hangout) on an as-neede
 
 The interest group will meet at PKP sprints to work on education projects.
 
-Adapted from the Islandora Documentation Interest Group Terms of Reference
+Adapted from the <a href="https://github.com/AhemNason/Islandora-Documentation-Interest-Group">Islandora Documentation Interest Group Terms of Reference</a>.
