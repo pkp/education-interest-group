@@ -17,6 +17,7 @@ Specific goals, activities, outcomes may include:
 * Assessing current courses for gaps and weaknesses.
 * Advising on / enriching the platform for PKP courses
 * Developing new courses on the current platforms
+* Translating courses and educational materials
 * Working to lower barriers to entry for creating good courses and educational experiences
 
 The interest group will communicate primarily via the group mailing list.
