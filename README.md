@@ -6,8 +6,9 @@ Find out more on the <a href="https://github.com/pkp/education-interest-group/wi
 
 ## Membership
 
-- Kevin Stranack, Simon Fraser University/PKP
 - Andrea Kosavic, York University
+- Katherine Robertson, Western
+- Kevin Stranack, Simon Fraser University/PKP
 
 ## Terms of Reference
 
