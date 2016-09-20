@@ -6,7 +6,7 @@ Find out more on the <a href="https://github.com/pkp/education-interest-group/wi
 
 ## Membership
 
-- Andrea Kosavic, York University
+- Andrea Kosavic (EIG Coordinator), York University
 - Katherine Robertson, Western
 - Kevin Stranack, Simon Fraser University/PKP
 
